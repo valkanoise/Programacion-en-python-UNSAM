@@ -1,4 +1,6 @@
-# Programacion en python (Programming in Python 3) ![image info](./logo_UNSAM.png)
+# Programacion en python (Programming in Python 3) 
+
+![image info](./logo_UNSAM.png)
 
 Here I provide all the material from the Python3 programming course used during the course dictated as part of the [Degree in Data-Science](https://www.unsam.edu.ar/escuelas/ciencia/661/ciencia/ciencia-de-datos) by the ["Escuela de Ciencia y Tecnología"](http://www.unsam.edu.ar/escuelas/ciencia/) from the "National University of San Martín" [(UNSAM)](https://www.unsam.edu.ar/) during the second semester of 2021.
 
